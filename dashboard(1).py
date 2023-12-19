@@ -7,7 +7,7 @@ st.header('Grafik Sinus & Cosinus :sparkles:')
 st.subheader('Plot Grafik')
 
 nama =st.text_input('Nama', ' ', label_visibility='collapsed')
-st.write('こんにちは! ',nama)
+st.write('Hallo ',nama)
 
 f1 =st.number_input('f1 = ',value=1)
 f2 =st.number_input('f2 = ',value=1)
